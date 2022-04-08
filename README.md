@@ -1,4 +1,4 @@
-- **Discord: VaxPex#0830**
+**Discord: VaxPex#0830**
 
 ![](https://github-readme-stats.vercel.app/api?username=VaxPex&show_icons=true&theme=radical)
 
